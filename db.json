@@ -6,7 +6,7 @@
       "arrival":"Ankara",
       "company": "Turkish Airlines",
       "price":1200,
-      "seat":250,
+      "seat":250
     }, 
     {
     "id": 2,
@@ -14,7 +14,7 @@
       "arrival":"Izmir",
       "company": "Anadolu Jet",
       "price":1000,
-      "seat":150,
+      "seat":150
     },
     {
           "id": 3,
@@ -22,7 +22,7 @@
       "arrival":"Ankara",
       "company": "Turkish Airlines",
       "price":1100,
-      "seat":220,
+      "seat":220
     }
   ]
 }
