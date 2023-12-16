@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "departure": "Istanbul"
+      "arrival":"Ankara"
+      "company": "Turkish Airlines"
+      "price":1200
+      "seat":250
+    }, 
+    {
+    "id": 2,
+      "departure": "Istanbul"
+      "arrival":"Izmir"
+      "company": "Anadolu Jet"
+      "price":1000
+      "seat":150
+    },
+    {
+          "id": 3,
+      "departure": "Istanbul"
+      "arrival":"Ankara"
+      "company": "Turkish Airlines"
+      "price":1100
+      "seat":220
+    }
+  ]
+}
